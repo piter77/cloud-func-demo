@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.pret.piter
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, google-cloud-function, google-cloud-function-http, gradle, junit, kotlin, kotlin-application, logback, readme, shade, yaml]
